@@ -18,3 +18,13 @@
     
     return head;
 }
+
+//using recursion:
+//if (position == 0) {
+//         Node node = new Node();
+//         node.data = data;
+//         node.next = head;
+//         return node;
+//     }
+//     head.next = InsertNth(head.next, data, position - 1);
+//     return head;
