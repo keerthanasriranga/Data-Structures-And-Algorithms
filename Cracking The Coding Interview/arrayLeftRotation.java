@@ -15,6 +15,7 @@ public class Solution {
         for(int i=0; i < n; i++){
            int newLocation = (i + (n - k)) % n;
            a[newLocation] = in.nextInt();
+            //for right rotation use : int newLocation = (i + (n + k)) % n;
         }
            for(int i=0; i < n; i++)System.out.print(a[i]+" ");
         }
