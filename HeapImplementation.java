@@ -1,5 +1,5 @@
 //Motivated and guided by HackerRank!
-//Heap implementation using arrays
+//Min Heap implementation using arrays
 
 import java.util.*;
 class MinHeap{
