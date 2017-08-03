@@ -1,10 +1,6 @@
-/******************************************************************************
+//Motivated and guided by HackerRank!
+//Heap implementation using arrays
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 import java.util.*;
 class MinHeap{
     private int capacity = 10;
@@ -78,7 +74,7 @@ class MinHeap{
     
 }
 
-public class Main{
+public class HeapImplementation{
     public static void main(String args[]){
         MinHeap heap = new MinHeap();
         Scanner sc = new Scanner(System.in);
