@@ -1,5 +1,6 @@
 /*if the difference between the grade and the next multiple of 5 is less than 3, round grade up to the next multiple of .
 If the value of grade is less than 38 , no rounding occurs as the result will still be a failing grade.*/
+//Code comletely written by me!
 
 import java.io.*;
 import java.util.*;
